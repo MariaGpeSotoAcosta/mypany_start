@@ -1,0 +1,1 @@
+This is a sample of MyPany, a project I'm working on. Consider this the head of the project, a very simple python script that will be implemented to create a web application aimed at helping users visualize and organize creative ideas through automated visual content generation.
